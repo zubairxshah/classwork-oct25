@@ -46,7 +46,7 @@ export default function Home() {
           </p>
           <div>
             <Link
-              href="https://github.com/zubairxshah/classwork-oct18"
+              href="https://github.com/zubairxshah/classwork-oct25"
               passHref
             >
               <button className="text-white bg-[#90cc75] hover:bg-black hover:text-[#90cc75] px-3 py-2 rounded-md text-md font-medium">
